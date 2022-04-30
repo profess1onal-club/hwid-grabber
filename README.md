@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.profess1onal.club/Logo.png" width="300" />
+  <img src="https://cdn.profess1onal.club/logo.png" width="300" />
 </p>
 
 # HWID Grabber
